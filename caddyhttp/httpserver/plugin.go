@@ -449,6 +449,7 @@ var directives = []string{
 
 	// directives that add listener middleware to the stack
 	"proxyprotocol", // github.com/mastercactapus/caddy-proxyprotocol
+	"forwardproxy",  // github.com/caddyserver/forwardproxy
 
 	// directives that add middleware to the stack
 	"locale", // github.com/simia-tech/caddy-locale
